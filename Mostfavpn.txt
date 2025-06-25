@@ -1,2 +1,1 @@
-
-vless://f08e9bd2-c355-4a77-802e-3d4864675e72@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#@Shh_Proxy | All²
+c3M6Ly9jaGFjaGEyMC1pZXRmLXBvbHkxMzA1JTNBVzc0WEZBTExMdXc2bTVJQUAyRnJlYWtDb25maWcudXNlY2hhcmdlLmlyOjQ0MyMlRjAlOUYlODclQUMlRjAlOUYlODclQTcrJTQwTW9zdGZhdnBu
