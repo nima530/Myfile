@@ -1,2 +1,1 @@
-vless://3a31b99b-03d0-4b20-9216-8775126e8b62@104.31.16.95:2053?type=ws&security=tls&host=ir.minom.ir&path=%2F&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ir.minom.ir#iransl
-vless://3a31b99b-03d0-4b20-9216-8775126e8b62@www.speedtest.net:8443?type=ws&security=tls&host=ftp.minom.ir&path=%2F&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ftp.minom.ir#mci
+ss://chacha20-ietf-poly1305:1xO2cqPazqjGfCfd@admin.c1.webramz.co:443#mci
