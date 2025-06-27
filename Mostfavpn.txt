@@ -1,1 +1,2 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%7C%40MostfaVpn
+vless://3a31b99b-03d0-4b20-9216-8775126e8b62@104.31.16.95:2053?type=ws&security=tls&host=ir.minom.ir&path=%2F&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ir.minom.ir#iransl
+vless://3a31b99b-03d0-4b20-9216-8775126e8b62@www.speedtest.net:8443?type=ws&security=tls&host=ftp.minom.ir&path=%2F&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ftp.minom.ir#mci
