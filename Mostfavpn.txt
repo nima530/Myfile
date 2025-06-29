@@ -1,1 +1,1 @@
-ss://chacha20-ietf-poly1305:1xO2cqPazqjGfCfd@admin.c1.webramz.co:443#mci
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#MostfaVpn
