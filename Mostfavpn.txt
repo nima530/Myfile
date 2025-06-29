@@ -1,1 +1,1 @@
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#MostfaVpn
+vless://3a31b99b-03d0-4b20-9216-8775126e8b62@Www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ftp.arsalak.ir&fp=chrome&type=ws&sni=ftp.arsalak.ir#%F0%9F%87%B8%F0%9F%87%AA%D8%B3%D9%88%D8%A6%D8%AF%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%864%F0%9F%87%B8%F0%9F%87%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
