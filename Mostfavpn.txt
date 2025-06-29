@@ -1,1 +1,1 @@
-vless://3a31b99b-03d0-4b20-9216-8775126e8b62@Www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ftp.arsalak.ir&fp=chrome&type=ws&sni=ftp.arsalak.ir#%F0%9F%87%B8%F0%9F%87%AA%D8%B3%D9%88%D8%A6%D8%AF%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%864%F0%9F%87%B8%F0%9F%87%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
+vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#mci
